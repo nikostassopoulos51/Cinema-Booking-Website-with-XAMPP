@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-shadow: 0 0 6px #00fff2; margin: 20px; background-image: url("https://static.vecteezy.com/system/resources/thumbnails/043/555/242/small/realistic-3d-cinema-film-strip-in-perspective-isolated-on-blue-background-template-cinema-festival-movie-design-cinema-film-strip-for-ad-poster-presentation-show-brochure-banner-or-flyer-vector.jpg"); background-size: cover;}
+.card { border: 4px solid #4a5d00; padding: 12px; margin: 12px 0; background-color: #b80485; border-radius: 25px; box-shadow: 10px 10px rgb(130, 165, 177);}
+.small { color: #ffffff; font-size: 16px; text-shadow: 0 0 1px #120040;}
+a, button, input { font: inherit; }
